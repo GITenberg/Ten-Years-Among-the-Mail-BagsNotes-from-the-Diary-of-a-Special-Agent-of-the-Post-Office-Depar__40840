@@ -1,0 +1,29 @@
+_repo: Ten-Years-Among-the-Mail-BagsNotes-from-the-Diary-of-a-Special-Agent-of-the-Post-Office-Depar__40840
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holbrook, James
+    alias: Holbrook, J. (James)
+    birthdate: 1812
+    deathdate: 1864
+    gutenberg_agent_id: '40848'
+    url: http://www.gutenberg.org/2009/agents/40848
+description: ''
+gutenberg_issued: '2012-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40840'
+  lccn: '14007212'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HE'
+- !lcsh 'Postal service -- United States'
+title: "Ten Years Among the Mail Bags\r\nOr, Notes from the Diary of a Special Agent\
+  \ of the Post-Office Department"
+url: http://www.gutenberg.org/ebooks/40840
