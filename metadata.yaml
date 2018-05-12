@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40848'
     url: http://www.gutenberg.org/2009/agents/40848
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40840#Ten-Years-Among-the-Mail-BagsNotes-from-the-Diary-of-a-Special-Agent-of-the-Post-Office-Depar_
 gutenberg_issued: '2012-09-22'
 gutenberg_type: Text
 identifiers:
